@@ -1,0 +1,14 @@
+body{
+    font-family: sans-serif;
+}
+
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12{
+    border: solid 3px white;
+    padding: 0.25rem;
+    color: white;
+    height: 100%;
+    background-color: rgb(16, 88, 221)
+}
+.box{
+    text-align: center;
+}
